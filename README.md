@@ -1,4 +1,4 @@
-This is the repo for git trianing intro
+This is the repo for git training intro
 
 Editing within github
 
@@ -25,4 +25,4 @@ Editing on terminal
 print ('hello')
 ```
 
-This is a change within github that is not at the same palce on my local computer
+This is a change within github that is not at the same place on my local computer
