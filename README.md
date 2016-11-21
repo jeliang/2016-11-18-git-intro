@@ -17,6 +17,6 @@ This is the repo for git trianing intro
 1. item 3
 1. item 1
 
-'''python
+```python
 print ('hello')
-'''
+```
