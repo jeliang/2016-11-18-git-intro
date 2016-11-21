@@ -2,6 +2,8 @@ This is the repo for git trianing intro
 
 Editing within github
 
+Editing on terminal
+
 #header 1
 ## header 2
 ### header 3
