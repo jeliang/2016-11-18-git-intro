@@ -1,5 +1,7 @@
 This is the repo for git trianing intro
 
+Editing within github
+
 #header 1
 ## header 2
 ### header 3
